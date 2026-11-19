@@ -1,3 +1,7 @@
+---
+tags: [klassemateriell, lom, md]
+indeksert: 2026-11-14
+---
 # lom-video
 
 Videopresentasjoner til LØM-appen (Teknisk kommunikasjon og ledelse, Fagskolen Oslo, Avdeling Elkraft). Filene publiseres med GitHub Pages på https://truthseeker1968.github.io/lom-video/ og strømmes fra appen (https://truthseeker1968.github.io/lom-app/#/video).
